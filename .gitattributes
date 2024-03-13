@@ -12,4 +12,4 @@
 /resources/**/* filter=lfs diff=lfs merge=lfs -text
 
 # Skip the logo file for the template repo
-/resources/raylib_logo.png !filter !diff !merge text
+/resources/raylib_logo.png !filter !diff !merge binary
